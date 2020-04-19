@@ -3,3 +3,5 @@
 Print the bytes of the public and private keys. 
 
 Print the public and private keys.
+
+keySize 1024
